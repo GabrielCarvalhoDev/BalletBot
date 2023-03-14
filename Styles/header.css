@@ -1,0 +1,28 @@
+
+body{
+    font-family: var(--sarala);
+    background: var(--cor-de-fundo);
+    color: var(--cor-branco-font);
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 32px 0;
+}
+
+.cabecalho__botao{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 30px;
+}
+
+.cabecalho__botao__botao{
+    text-decoration: none;
+    color: var(--cor-branco-font);
+}
+
+.linha{
+    border: 0.4px solid var(--cor-branco-font);
+}

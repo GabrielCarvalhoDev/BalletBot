@@ -1,0 +1,14 @@
+@import url("header.css");
+@import url('main.css');
+@import url('footer.css');
+@import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+:root{
+    --cor-de-fundo: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    --cor-fundo-botao: #ECD6C4;
+    --cor-fonte-botao: #2F2325;
+    --cor-branco-font:#FFF2E7;
+    --sarala: 'Sarala', sans-serif;
+    --righteous: 'Righteous', cursive;
+}
